@@ -17,3 +17,7 @@
   * [Testnet](arauco-chain/interactive-blocks/testnet.md)
 * [Tokenomics](arauco-chain/tokenomics.md)
 * [Whitepaper](arauco-chain/openapi.md)
+
+## Arauco Bank
+
+* [Arauco Bank](arauco-bank/arauco-bank.md)
