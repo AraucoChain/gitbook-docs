@@ -21,3 +21,4 @@
 ## Arauco Bank
 
 * [Arauco Bank](arauco-bank/arauco-bank.md)
+* [Architecture](arauco-bank/architecture.md)
