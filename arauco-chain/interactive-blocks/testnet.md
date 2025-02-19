@@ -1,12 +1,14 @@
 ---
-description: Use our testnet for your product development
+description: Use our devnet for your product development
 ---
 
-# Testnet
+# Devnet
 
-Below you can see the data of our testnet to implement your solutions.&#x20;
+Below you can see the data of our devnet to implement your solutions.&#x20;
 
-This network is compatible with the Ethereum Virtual Machine (EVM), so you will need to use compatible wallets and tools to deploy your smart contracts.
+This network is compatible with the Ethereum Virtual Machine (EVM), so you must use compatible wallets and tools to deploy your smart contracts.
+
+**This devnet will be deprecated between March and April in order to enable a testnet with better features for builders.**
 
 
 

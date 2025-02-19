@@ -14,7 +14,7 @@
 * [Central Limit Order Book](arauco-chain/central-limit-order-book.md)
 * [Payment channels](arauco-chain/payment-channels.md)
 * [Technologies](arauco-chain/interactive-blocks/README.md)
-  * [Testnet](arauco-chain/interactive-blocks/testnet.md)
+  * [Devnet](arauco-chain/interactive-blocks/testnet.md)
 * [Tokenomics](arauco-chain/tokenomics.md)
 * [Whitepaper](arauco-chain/openapi.md)
 
