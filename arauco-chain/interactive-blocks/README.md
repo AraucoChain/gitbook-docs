@@ -2,7 +2,11 @@
 
 Arauco Chain uses leading and innovative technologies to bring Open Finance in a decentralized way.
 
-### Technologies
+
+
+**Below are the technologies for the Devnet (they might be different for the testnet, and will be notified as soon as we launch the new network):**
+
+### Devnet Technologies
 
 
 

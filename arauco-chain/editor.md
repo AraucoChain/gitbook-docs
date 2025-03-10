@@ -24,4 +24,4 @@ To reach the next billion people, Arauco Chain focuses on enabling Fintechs such
 
 ### Interoperability
 
-Connect to any **ISO 20022 financial networ**k, including other blockchains and non-blockchain systems (thanks to [**Interledger Protocol**](https://interledger.org/)).
+Connect to any **ISO 20022 financial network**, including other blockchains and non-blockchain systems (thanks to [**Interledger Protocol**](https://interledger.org/)).

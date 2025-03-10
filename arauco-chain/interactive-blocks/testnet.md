@@ -4,17 +4,15 @@ description: Use our devnet for your product development
 
 # Devnet
 
-Below you can see the data of our devnet to implement your solutions.&#x20;
+**The devnet is currently not operational, we will soon launch a testnet for you to build your apps and interact with other protocols in the ecosystem.**
 
-This network is compatible with the Ethereum Virtual Machine (EVM), so you must use compatible wallets and tools to deploy your smart contracts.
+This network was compatible with the Ethereum Virtual Machine (EVM), so you must use compatible wallets and tools to deploy your smart contracts.
 
-**This devnet will be deprecated between March and April in order to enable a testnet with better features for builders.**
-
-
+Previous data:
 
 | Attribute      | Value                                                                                            |
 | -------------- | ------------------------------------------------------------------------------------------------ |
-| Name           | Arauco Testnet                                                                                   |
+| Name           | Arauco Devnet                                                                                    |
 | Type           | EVM                                                                                              |
 | Currency       | TEST                                                                                             |
 | RPC URL (HTTP) | [https://rpc.arauco-testnet.t.raas.gelato.cloud](https://rpc.arauco-testnet.t.raas.gelato.cloud) |
