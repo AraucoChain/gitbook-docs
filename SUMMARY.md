@@ -10,7 +10,7 @@
 
 * [The Open Finance Network](arauco-chain/editor.md)
 * [Smart currencies](arauco-chain/smart-currencies.md)
-* [Fintech Functions](arauco-chain/images-and-media.md)
+* [Fintech Functions](arauco-chain/fintech-functions.md)
 * [Central Limit Order Book](arauco-chain/central-limit-order-book.md)
 * [Payment channels](arauco-chain/payment-channels.md)
 * [Technologies](arauco-chain/interactive-blocks/README.md)
