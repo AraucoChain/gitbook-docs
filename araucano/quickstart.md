@@ -27,17 +27,5 @@ With Arauco Chain, you can create:
 * Invoice management.
 * And much more.
 
-### Arauco Bank
-
-**On-chain neo-bank for individuals and businesses to make financial transactions.**
-
-Built on top of the Arauco Chain for enterprises, people, RWA Issuers, and more, in a gasless experience.
-
-**The first version will be released in the first half of 2025.**
-
-
-
-<figure><img src="../.gitbook/assets/araucobank.png" alt=""><figcaption></figcaption></figure>
-
 ###
 
